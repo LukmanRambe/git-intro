@@ -45,7 +45,7 @@ if (isset($_POST["search"])) {
 
 <body>
     <center>
-        <h2>Daftar Mahasiswa</h2>
+        <h2>Daftar Seluruh Mahasiswa</h2>
 
         <form action="" method="post" class="form-cari">
             <input type="text" name="keyword" size="30" autofocus autocomplete="off" placeholder="Search" id="keyword" />
